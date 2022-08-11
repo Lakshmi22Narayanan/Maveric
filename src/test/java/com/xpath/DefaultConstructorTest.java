@@ -12,11 +12,6 @@ public class DefaultConstructorTest {
 		System.out.println(studentName2);
 		
 		
-		DefaultConstructorTest a1 = new DefaultConstructorTest();
-		String studentName3 = a.studentName;
-		System.out.println(studentName3);
-		
-		
 		
 		
 	}
